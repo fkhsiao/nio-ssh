@@ -1,3 +1,9 @@
+It is for my own research purpose.
+========
+
+Please see https://github.com/lucastheisen/jsch-nio for more details.
+========
+
 jsch-nio 
 ========
 _Note that this project depends on the [jsch-extension](https://github.com/lucastheisen/jsch-extension) project_
